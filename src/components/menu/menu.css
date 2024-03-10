@@ -1,0 +1,25 @@
+nav{
+    margin-right: 700px;
+}
+
+nav ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+
+}
+
+nav ul li{
+    display: inline-block;
+    margin-right: 20px ;
+
+}
+
+nav ul li a{
+    color:#5D1049;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 18;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}

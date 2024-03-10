@@ -1,0 +1,14 @@
+.header{
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    margin-top: -3%;
+}
+
+img{
+    width: 200px;
+    height: auto;
+    margin-left: 20px;
+}
