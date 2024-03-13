@@ -1,0 +1,16 @@
+
+.slider-container{
+    flex: 4; 
+    padding: 20px;
+    margin-top: 20%;
+  }
+
+.slider{
+    display: none;
+}
+.slider img{
+    width: 70%;
+    height: 400px;
+}
+
+
